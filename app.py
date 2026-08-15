@@ -1575,6 +1575,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-weight: 500;
   }
 </style>
+
+<!-- Vercel Web Analytics -->
+<script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
 </head>
 <body>
 
